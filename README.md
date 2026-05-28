@@ -42,7 +42,7 @@ Praticar os fundamentos da linguagem Python aplicados à análise de dados, util
 
 ```
 📦 global-solutions/
-├── monitoramento_satelites.py   # Script principal
+├── 26.1.GS.<AnaJuliaBeatriz>.py   # Script principal
 └── README.md                    # Este arquivo
 ```
 
@@ -75,11 +75,11 @@ Praticar os fundamentos da linguagem Python aplicados à análise de dados, util
 
 4. Execute o script com o comando:
    ```bash
-   python monitoramento_satelites.py
+   python 26.1.GS.<AnaJuliaBeatriz>.py
    ```
    ou, dependendo da sua instalação:
    ```bash
-   python3 monitoramento_satelites.py
+   python3 26.1.GS.<AnaJuliaBeatriz>.py
    ```
 
 5. Siga as instruções exibidas no terminal para inserir os dados dos eventos.
