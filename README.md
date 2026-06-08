@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da avaliação **Global Solutions** da disciplina **Data Driven Application**, do curso de Data Science.
+Este projeto foi desenvolvido como parte da avaliação **Global Solutions** da disciplina **Data Driven Application**, do curso de Data Science na FIAP.
 
 O sistema simula um programa de monitoramento de eventos climáticos e ambientais (como queimadas, inundações e secas) detectados por satélites no território brasileiro. Os dados são coletados manualmente pelo usuário, validados em tempo real e, ao final, é gerado um **relatório de análise** completo com os principais indicadores dos eventos registrados.
 
